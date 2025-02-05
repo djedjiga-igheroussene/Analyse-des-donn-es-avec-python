@@ -17,13 +17,6 @@ Les données proviennent de [Kaggle Titanic Dataset](https://www.kaggle.com/c/ti
 - Matplotlib & Seaborn
 - Jupyter Notebook
 
-## 📊 Exemple de visualisation
-*(Ajoute un screenshot d’un graphique intéressant ici)*
-
-## 🚀 Lancer l’analyse
-1. Télécharger le fichier `titanic_analysis.ipynb`
-2. Exécuter le notebook dans Jupyter
-
 ---
 💡 **Auteur** : Djedjiga  
 📌 **Lien vers le projet** : [GitHub](https://github.com/djedjiga-igheroussene/Analyse-des-donn-es-avec-python)
